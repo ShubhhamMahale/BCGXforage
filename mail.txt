@@ -1,0 +1,31 @@
+Subject: Approach and Plan for Testing Price Sensitivity Hypothesis
+
+Dear Associate Director,
+
+Following our team meeting regarding the potential impact of price sensitivity on SME customer churn, I've taken the initiative to devise an approach to test this hypothesis. Understanding the need to delve deeper into the factors driving customer churn, I've outlined a plan that can help us assess the correlation between price changes and churn rates among PowerCo's SME customer base.
+
+Hypothesis: 
+	To test the hypothesis of 'Customer churn within PowerCo's SME segment that maybe be majorly influenced by power liberation which has affected the price changes.'
+
+Steps to be considered:
+
+1. Data Collection and Preparation:
+      - Customer demographics (e.g., industry, company size).
+      - Billing history and patterns.
+      - Contract details (start date, duration, terms).
+      - Previous churn records and reasons (if available).
+2. Exploratory Data Analysis (EDA):
+   - Perform statistical analysis and visualizations to understand correlations between features and churn rates.		
+3. Model Development:
+   - Utilize predictive modeling techniques (e.g., logistic regression, decision trees, or ensemble methods) to build a churn prediction model.
+
+Required Data:
+For effective analysis, we would require access to granular customer data, historical pricing information, churn records, and any relevant external market data that may influence price sensitivity.
+
+Please let me know if there are additional considerations or data sources you'd like to include in this analysis. I'm eager to move forward with this initiative and contribute to our client's strategy.
+
+Thank you for your guidance and support.
+
+Best regards,
+
+Shubham Mahale
